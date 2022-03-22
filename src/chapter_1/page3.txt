@@ -1,0 +1,4 @@
+Welcome to Git
+
+I hope you having fun
+ Not missing Java
